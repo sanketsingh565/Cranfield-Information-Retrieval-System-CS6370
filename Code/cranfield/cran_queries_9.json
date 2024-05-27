@@ -1,0 +1,38 @@
+[
+  {
+    "query number": 73,
+    "query": "what role does the effect of chemical reaction (particularly when out of equilibrium) play in the similitude laws governing hypersonic flows over slender aerodynamic bodies ."
+  },
+  {
+    "query number": 74,
+    "query": "how significant is the possible pressure of a dissociated free stream with respect to the realization of hypersonic simulation in high enthalpy wind tunnels ."
+  },
+  {
+    "query number": 75,
+    "query": "do the discrepancies among current analyses of the vorticity effect on stagnation-point heat transfer result primarily from the differences in the viscosity-temperature law assumed ."
+  },
+  {
+    "query number": 76,
+    "query": "how far can one trust the linear viscosity-temperature solution assumed in some of the analyses of hypersonic shock layer at low reynolds number ."
+  },
+  {
+    "query number": 77,
+    "query": "how close is the comparison of the shock layer theory with existing experiments in the low reynolds number (merged-layer) regime ."
+  },
+  {
+    "query number": 78,
+    "query": "has anyone explained the kink in the surge line of a multi-stage axial compressor ."
+  },
+  {
+    "query number": 79,
+    "query": "have any aerodynamic derivatives been measured at hypersonic mach numbers and comparison been made with theoretical work ."
+  },
+  {
+    "query number": 80,
+    "query": "are methods of measuring aerodynamic derivatives available which could be adopted for use in short running time facilities ."
+  },
+  {
+    "query number": 81,
+    "query": "what are wind-tunnel corrections for a two-dimensional aerofoil mounted off-centre in a tunnel ."
+  }
+]

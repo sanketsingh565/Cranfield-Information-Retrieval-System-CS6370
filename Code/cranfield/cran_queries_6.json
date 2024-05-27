@@ -1,0 +1,38 @@
+[
+  {
+    "query number": 46,
+    "query": "what is the combined effect of surface heat and mass transfer on hypersonic flow ."
+  },
+  {
+    "query number": 47,
+    "query": "what are the existing solutions for hypersonic viscous interactions over an insulated flat plate ."
+  },
+  {
+    "query number": 48,
+    "query": "what controls leading-edge attachment at transonic speeds ."
+  },
+  {
+    "query number": 49,
+    "query": "can the three-point boundary-value problem for the blasius equation be integrated numerically,  using suitable transformations,  without iteration on the boundary conditions ."
+  },
+  {
+    "query number": 50,
+    "query": "what are the effects of small amounts of gas rarefaction on the characteristics of the boundary layers on slender bodies of revolution ."
+  },
+  {
+    "query number": 51,
+    "query": "what is the available information pertaining to boundary layers on very slender bodies of revolution in continuum flow (the ?transverse curvature  effect) ."
+  },
+  {
+    "query number": 52,
+    "query": "what is the available information pertaining to the effect of slight rarefaction on boundary layer flows (the ?slip? effect) ."
+  },
+  {
+    "query number": 53,
+    "query": "what investigations have been made of the flow field about a body moving through a rarefied,  partially ionized gas in the presence of a magneticfield ."
+  },
+  {
+    "query number": 54,
+    "query": "how is the heat transfer downstream of the mass transfer region effected by mass transfer at the nose of a blunted cone ."
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "query number": 64,
+    "query": "can't the static deflection shapes be used in predicting flutter in place of vibrational shapes . if so,  can we provide a justification by means of an example ."
+  },
+  {
+    "query number": 65,
+    "query": "does the boundary layer on a flat plate in a shear flow induce a pressure gradient ."
+  },
+  {
+    "query number": 66,
+    "query": "can the procedure of matching inner and outer solutions for a viscous flow problem be applied when the main stream is a shear flow ."
+  },
+  {
+    "query number": 67,
+    "query": "can series expansions be found for the boundary layer on a flat plate in a shear flow ."
+  },
+  {
+    "query number": 68,
+    "query": "what possible techniques are available for computing the injection distribution corresponding to an isothermal transpiration cooled hemisphere ."
+  },
+  {
+    "query number": 69,
+    "query": "what is known regarding asymptotic solutions to the exact boundary layer equations ."
+  },
+  {
+    "query number": 70,
+    "query": "previous solutions to the boundary layer similarity equations ."
+  },
+  {
+    "query number": 71,
+    "query": "experimental results on hypersonic viscous interaction ."
+  },
+  {
+    "query number": 72,
+    "query": "what has been done about viscous interactions in relatively low reynolds number flows, particularly at high mach numbers ."
+  }
+]

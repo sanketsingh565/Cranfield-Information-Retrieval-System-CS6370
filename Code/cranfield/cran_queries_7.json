@@ -1,0 +1,38 @@
+[
+  {
+    "query number": 55,
+    "query": "to what extent can the available information for incompressible boundary layers be applied to problems involving compressible boundary layers ."
+  },
+  {
+    "query number": 56,
+    "query": "to what extent can readily available steady-state aerodynamic data be utilized to predict lifting-surface flutter characteristics ."
+  },
+  {
+    "query number": 57,
+    "query": "what are the significant steady and non-steady flow characteristics which affect the flutter mechanism ."
+  },
+  {
+    "query number": 58,
+    "query": "is it possible to determine rates of forced convective heat transfer from heated cylinders of non-circular cross-section,  (the fluid flow being along the generators) ."
+  },
+  {
+    "query number": 59,
+    "query": "how much is known about boundary layer flows along non-circular cylinders ."
+  },
+  {
+    "query number": 60,
+    "query": "is there any simple, but practical, method for numerical integration of the mixing problem (i.e. the blasius problem with three-point boundary conditions) ."
+  },
+  {
+    "query number": 61,
+    "query": "does there exist a closed-form expression for the local heat transfer around a yawed cylinder ."
+  },
+  {
+    "query number": 62,
+    "query": "how far around a cylinder and under what conditions of flow, if any, is the velocity just outside of the boundary layer a linear function of the distance around the cylinder ."
+  },
+  {
+    "query number": 63,
+    "query": "where can i find pressure data on surfaces of swept cylinders ."
+  }
+]
