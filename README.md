@@ -22,5 +22,4 @@ When the flag is not passed, all the queries in the Cranfield dataset are consid
 
 In both the cases, *queries.txt files and *docs.txt files will be generated in the OUTPUT FOLDER after each stage of preprocessing of the documents and queries.
 
-
-To perform hypothesis testing, run hypothesis_testing_main.py followed by hypothesis_testing.py
+To perform hypothesis testing, run `hypothesis_testing_main.py` followed by `hypothesis_testing.py`
