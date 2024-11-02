@@ -9,7 +9,7 @@ Usage: main.py [-custom] [-dataset DATASET FOLDER] [-out_folder OUTPUT FOLDER]
                [-segmenter SEGMENTER TYPE (naive|punkt)] [-tokenizer TOKENIZER TYPE (naive|ptb)] [-reducer Sentence Segmenter Type ([stemming|lemmatization])]
                [-lsa store_true][-doc2vec store_true][-word2vec store_true][-bm25 store_true]
                
-For example: python3 main.py -word2vec -reducer lemmatization
+For example: `python3 main.py -word2vec -reducer lemmatization`
 > Will run word2vec using lemmatization for inflection reduction
 
 When the -custom flag is passed, the system will take a query from the user as input. For example:
